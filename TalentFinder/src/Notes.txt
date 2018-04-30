@@ -1,0 +1,13 @@
+sendRedirect - Redirect with in the context and outsude also,
+doesn't carry the current request, always create a new request, 
+so it always needs a get.sendredirect is client side forward,
+ it carries data by using query string. 
+ 
+ Forward - redirect with in the context and it carries the same request
+ and it is a server side forward, so client doesn't know the forwarded 
+ url.
+ 
+ 
+ 
+ Cookie Disable and Session Management.
+ 
